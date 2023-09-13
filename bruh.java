@@ -12,11 +12,12 @@ class bruh
     System.out.println("Your favorite color is: " + color);
 
     System.out.println("List 3 integers");
-    int a = scan.nextInt();
-    int b = scan.nextInt();
-    int c = scan.nextInt();
+    int x = scan.nextInt();
+    int y = scan.nextInt();
+    int z = scan.nextInt();
 
-    System.out.println(a + b + c);
+    System.out.println("The sum of these integers is: ");
+    System.out.print(x + y + z);
     
     
   }
